@@ -1,0 +1,6 @@
+EmbeddedGeneticAlgorithms/Release/*
+EmbeddedGeneticAlgorithms/Debug/*
+EmbeddedGeneticAlgorithms/.xdchelp
+EmbeddedGeneticAlgorithms/config/*
+EmbeddedGeneticAlgorithms/.launches/*
+.vs
