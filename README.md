@@ -1,4 +1,4 @@
-# EmbeddedGeneticAlgorithm
+# EmbeddedGeneticAlgorithms
 
 This is the source code of our project "Embedded genetic algorithm for low-power, low-cost and low-size-memory devices". 
 
